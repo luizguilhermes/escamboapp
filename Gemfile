@@ -21,6 +21,8 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
+gem 'font-awesome-rails'
+
 #The most popular front-end framework for developing responsive, mobile first projects on the web.
 gem 'rails-assets-bootstrap', source: 'https://rails-assets.org'
 
